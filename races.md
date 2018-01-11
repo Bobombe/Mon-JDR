@@ -1,2 +1,2 @@
 # Espèces Intelligentes
-## Espèces Intelligentes
+## Humain
